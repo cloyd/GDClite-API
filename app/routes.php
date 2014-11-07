@@ -11,6 +11,12 @@
 |
 */
 
+Route::group(['prefix' => 'api/v1'], function(){
+    Route::resource('teachers','TeachersController');
+    Route::resource('danceclasses', 'DanceclassesController');
+    Route::resource('locations','LocationsController');
+});
+
 Route::get('/', function()
 {
 	return View::make('hello');
