@@ -29,4 +29,4 @@ Fix bugs
 @ fixBugs.txt
 
 note for mac:
-create ka muna pala branch mo, tas pull request ka, saka ko i-merge sa master branch
+create ka muna pala branch mo, tas pull request ka, saka ko i-merge sa master branch.
