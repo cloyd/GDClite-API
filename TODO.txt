@@ -1,11 +1,12 @@
 # TODO
 
-1. config laravel
+1. config
 2. CRUD using Eloquent
 3. Responses and Codes (404,505,etc..)
 4. Transformations
 5. Extraction
 6. Refactoring Tests and Traits
+7. Paayos din pala ng database.
 
 
 
