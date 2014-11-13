@@ -28,6 +28,6 @@ use Postman for REST client App
 #Fix bugs
 @ fixBugs.txt
 
-###note for mac:
+###note for mac keenly:
 >create ka muna pala branch mo, tas pull request ka,
 >saka ko i-merge sa master branch.
